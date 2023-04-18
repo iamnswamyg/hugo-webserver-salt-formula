@@ -1,3 +1,3 @@
 base:
-  'salt-minion':
+  'minion1':
     - hugo
