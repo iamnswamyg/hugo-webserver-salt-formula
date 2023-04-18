@@ -1,3 +1,3 @@
 base:
-  'minion1':
+  'minion':
     - hugo
